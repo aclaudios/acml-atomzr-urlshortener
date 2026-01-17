@@ -1,0 +1,11 @@
+## Pages
+- [About Atomzr - Our Mission and Technology](/about): Learn about Atomzr, an experimental microsaas for URL shortening built with modern technology.
+- [Admin Dashboard - Atomzr](/admindashboard): Administrator dashboard for Atomzr URL shortener.
+- [Atomzr - Free URL Shortener | Trackable & Custom Short Links](/landing): Atomzr is a free URL shortener that lets you create custom, trackable short links with QR codes. Transform your links and track your impact.
+- [Atomzr: Free, Fast, Reliable Link Shortening](/home): Atomzr is a minimalist yet powerful URL shortener. Shorten, share, and track your links with ease.
+- [Contact Us - Atomzr](/contact): Get in touch with the Atomzr team. We
+- [Cookie Policy - Atomzr](/cookiepolicy): Understand how Atomzr uses cookies and other tracking technologies.
+- [Dashboard - Atomzr](/dashboard): Manage your shortened URLs and view analytics in your Atomzr dashboard.
+- [Legal Notice - Atomzr](/legalnotice): Legal notice and imprint for the Atomzr application.
+- [Privacy Policy - Atomzr](/privacypolicy): Learn how Atomzr collects, uses, and protects your data. Read our Privacy Policy.
+- [Terms of Service - Atomzr](/termsofservice): Read the Terms of Service for using the Atomzr application.
