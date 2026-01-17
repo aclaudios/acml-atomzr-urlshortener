@@ -9,7 +9,7 @@ export default defineConfig({
 		port: 3000,
 	},
 	resolve: {
-		extensions: ['.jsx', '.js', '.tsx', '.ts', '.json'],
+		extensions: ['.jsx', '.js', '.json'],
 		alias: {
 			'@': path.resolve(__dirname, './src'),
 		},

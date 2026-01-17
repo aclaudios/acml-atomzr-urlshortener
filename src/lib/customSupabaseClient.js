@@ -32,10 +32,10 @@ const createMockClient = () => {
       }),
     }),
     delete: () => ({
-      eq: () => async () => ({ error: { message: 'Supabase not configured' } }),
+      eq: () => ({ eq: async () => ({ error: { message: 'Supabase not configured' } }) }),
     }),
     update: () => ({
-      eq: () => async () => ({ error: { message: 'Supabase not configured' } }),
+      eq: () => ({ eq: async () => ({ error: { message: 'Supabase not configured' } }) }),
     }),
   });
 
